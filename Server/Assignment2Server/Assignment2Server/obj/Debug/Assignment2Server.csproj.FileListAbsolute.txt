@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Assignment2Server\bin\Debug\Assignment2Server.exe.config
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\bin\Debug\Assignment2Server.exe.config
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\bin\Debug\Assignment2Server.exe
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\bin\Debug\Assignment2Server.pdb
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.Form1.resources
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.Properties.Resources.resources
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.csproj.GenerateResource.Cache
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.exe
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Server\Assignment2Server\Assignment2Server\obj\Debug\Assignment2Server.pdb

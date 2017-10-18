@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Assignment2Client\bin\Debug\Assignment2Client.exe.config
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\bin\Debug\Assignment2Client.exe.config
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\bin\Debug\Assignment2Client.exe
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\bin\Debug\Assignment2Client.pdb
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.Form1.resources
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.Properties.Resources.resources
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.csproj.GenerateResource.Cache
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.exe
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.pdb
+C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment2Client\Assignment2Client\Assignment2Client\obj\Debug\Assignment2Client.csprojResolveAssemblyReference.cache
